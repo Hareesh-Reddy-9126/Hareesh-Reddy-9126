@@ -1,26 +1,18 @@
 💫 About Me
-
 Hareesh Reddy
-
 🚀 Future Software Engineer | Problem Solver | Consistency Builder  
-
 I'm a Second-year CS & IT student at KL University, building my foundation in computer science the right way — one concept at a time.
-
 Currently Deep Diving Into:
 🧠 Data Structures & Algorithms (Pattern-wise Mastery)
 📊 Databases & SQL
 🌐 Full Stack Development
-
 I focus on:
 ✔ Clean logic  
 ✔ Strong fundamentals  
 ✔ Daily improvement  
-
 My Mission:
 Build elite problem-solving skills and become industry-ready before graduation.
-
 Let's grow, build, and innovate. 🔥
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/geniehub_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hareesh-reddy-gurrala-75b229345) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@geniehub_ai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hareeshreddy916@gmail.com) 
