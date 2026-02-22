@@ -1,5 +1,25 @@
-# 💫 About Me:
-# Hareesh Reddy<br><br>🚀 Future Software Engineer | Problem Solver | Consistency Builder  <br><br>I'm a Second-year CS & IT student at KL University, building my foundation in computer science the right way — one concept at a time.<br><br>Currently Deep Diving Into:<br>🧠 Data Structures & Algorithms (Pattern-wise Mastery)<br>📊 Databases & SQL<br>🌐 Full Stack Development<br><br>I focus on:<br>✔ Clean logic  <br>✔ Strong fundamentals  <br>✔ Daily improvement  <br><br>My Mission:<br>Build elite problem-solving skills and become industry-ready before graduation.<br><br>Let's grow, build, and innovate. 🔥
+💫 About Me
+
+Hareesh Reddy
+
+🚀 Future Software Engineer | Problem Solver | Consistency Builder  
+
+I'm a Second-year CS & IT student at KL University, building my foundation in computer science the right way — one concept at a time.
+
+Currently Deep Diving Into:
+🧠 Data Structures & Algorithms (Pattern-wise Mastery)
+📊 Databases & SQL
+🌐 Full Stack Development
+
+I focus on:
+✔ Clean logic  
+✔ Strong fundamentals  
+✔ Daily improvement  
+
+My Mission:
+Build elite problem-solving skills and become industry-ready before graduation.
+
+Let's grow, build, and innovate. 🔥
 
 
 ## 🌐 Socials:
