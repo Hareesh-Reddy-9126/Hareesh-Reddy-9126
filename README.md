@@ -1,10 +1,12 @@
 💫 About Me
 
-Hareesh Reddy
+Hareesh Reddy Gurrala
+
 🚀 Future Software Engineer | Problem Solver | Consistency Builder  
 I'm a Second-year CS & IT student at KL University, building my foundation in computer science the right way — one concept at a time.
 
 Currently Deep Diving Into:
+
 🧠 Data Structures & Algorithms (Pattern-wise Mastery)
 
 📊 Databases & SQL
