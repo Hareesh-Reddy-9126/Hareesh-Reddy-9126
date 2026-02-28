@@ -1,36 +1,45 @@
 <h1 align="center">Hi 👋, I'm Hareesh Reddy Gurrala</h1>
 <h3 align="center">🚀 Aspiring Software Engineer | Problem Solver | Consistency Driven</h3><p align="center">
   <i>Building skills step by step • Learning deeply • Improving daily</i>
-</p>---
+</p>
+
 💫 About Me
+
 🎓 I am a 2nd-year CS & IT student at KL University
 📚 I focus on understanding concepts deeply instead of just completing tutorials
 🧩 I enjoy breaking problems into logical steps and solving them patiently
 🔥 I believe consistency beats talent when practiced daily
+
 ---
 🔍 Currently Learning
+
 - 🧠 Data Structures & Algorithms (structured + pattern-based practice)
 - 📊 Databases & SQL
 - 🌐 Backend & Full-Stack Development (Java & Spring Boot)
+
 ---
 🎯 What I Focus On
+
 ✔ Writing clear and logical code
 ✔ Strengthening core computer science fundamentals
 ✔ Practicing problem-solving regularly
 ✔ Continuous daily improvement
-<h2 align="center">📊 3D Contribution Graph</h2>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hareesh-Reddy-9126&theme=tokyonight" />
-</p>
+
 ---
 🏁 My Goal
+
 To build strong problem-solving ability, create real-world applications, and become industry-ready before graduation.
 I want to grow into a developer who understands systems — not just someone who writes code.
+
 ---
 📈 Current Journey
+
 «Learning → Practicing → Building → Improving → Repeating 🔁»
+
 Every day I try to be 1% better than yesterday.
+
 ---
+
 <p align="center">
   <b>Let’s learn, build, and improve every day 🔥</b>
 </p>
