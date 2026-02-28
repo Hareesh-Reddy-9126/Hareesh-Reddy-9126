@@ -21,7 +21,7 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hareesh-Reddy-9127/Hareesh-Reddy-9127/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Hareesh-Reddy-9126/Hareesh-Reddy-9126/output/github-contribution-grid-snake.svg?raw=true" />
 </p>
 ---
 
