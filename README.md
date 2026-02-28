@@ -1,28 +1,85 @@
+<h1 align="center">Hi 👋, I'm Hareesh Reddy Gurrala</h1>
+<h3 align="center">🚀 Aspiring Software Engineer | Problem Solver | Consistency Driven</h3><p align="center">
+  <i>Building skills step by step • Learning deeply • Improving daily</i>
+</p>---
+
 💫 About Me
 
-Hareesh Reddy Gurrala
+🎓 I am a 2nd-year CS & IT student at KL University
+📚 I focus on understanding concepts deeply instead of just completing tutorials
+🧩 I enjoy breaking problems into logical steps and solving them patiently
+🔥 I believe consistency beats talent when practiced daily
 
-🚀 Aspiring Software Engineer | Problem Solver | Consistency Driven
-
-I’m a second-year CS & IT student at KL University, focused on building a strong foundation in computer science by understanding concepts deeply rather than just completing tutorials.
+---
 
 🔍 Currently Learning
 
-🧠 Data Structures & Algorithms (structured, pattern-based practice)
-📊 Databases & SQL
-🌐 Backend & Full-Stack Development (Java & Spring Boot)
+- 🧠 Data Structures & Algorithms (structured + pattern-based practice)
+- 📊 Databases & SQL
+- 🌐 Backend & Full-Stack Development (Java & Spring Boot)
+
+---
 
 🎯 What I Focus On
 
 ✔ Writing clear and logical code
-✔ Strengthening core fundamentals
+✔ Strengthening core computer science fundamentals
+✔ Practicing problem-solving regularly
 ✔ Continuous daily improvement
+
+---
+
+🛠 Tech Stack
+
+Languages
+
+- Java
+- SQL
+- JavaScript
+
+Backend
+
+- Spring Boot
+- REST APIs
+
+Database
+
+- MySQL
+
+Tools
+
+- Git & GitHub
+- VS Code
+- IntelliJ IDEA
+
+---
 
 🏁 My Goal
 
-To develop strong problem-solving ability, build real-world applications, and become industry-ready before graduation.
+To build strong problem-solving ability, create real-world applications, and become industry-ready before graduation.
 
-Let’s learn, build, and improve every day. 🔥
+I want to grow into a developer who understands systems — not just someone who writes code.
+
+---
+
+📈 Current Journey
+
+«Learning → Practicing → Building → Improving → Repeating 🔁»
+
+Every day I try to be 1% better than yesterday.
+
+---
+
+🤝 Connect With Me
+
+- 📧 Email: your-email-here
+- 🔗 LinkedIn: your-linkedin-here
+
+---
+
+<p align="center">
+  <b>Let’s learn, build, and improve every day 🔥</b>
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/geniehub_/)
