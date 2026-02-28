@@ -2,25 +2,27 @@
 
 Hareesh Reddy Gurrala
 
-🚀 Future Software Engineer | Problem Solver | Consistency Builder  
-I'm a Second-year CS & IT student at KL University, building my foundation in computer science the right way — one concept at a time.
+🚀 Aspiring Software Engineer | Problem Solver | Consistency Driven
 
-Currently Deep Diving Into:
+I’m a second-year CS & IT student at KL University, focused on building a strong foundation in computer science by understanding concepts deeply rather than just completing tutorials.
 
-🧠 Data Structures & Algorithms (Pattern-wise Mastery)
+🔍 Currently Learning
 
+🧠 Data Structures & Algorithms (structured, pattern-based practice)
 📊 Databases & SQL
+🌐 Backend & Full-Stack Development (Java & Spring Boot)
 
-🌐 Full Stack Development
+🎯 What I Focus On
 
-I focus on:
+✔ Writing clear and logical code
+✔ Strengthening core fundamentals
+✔ Continuous daily improvement
 
-✔ Clean logic  
-✔ Strong fundamentals  
-✔ Daily improvement  
-My Mission:
-Build elite problem-solving skills and become industry-ready before graduation.
-Let's grow, build, and innovate. 🔥
+🏁 My Goal
+
+To develop strong problem-solving ability, build real-world applications, and become industry-ready before graduation.
+
+Let’s learn, build, and improve every day. 🔥
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/geniehub_/)
