@@ -1,48 +1,41 @@
 <h1 align="center">Hi 👋, I'm Hareesh Reddy Gurrala</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | Problem Solver | Consistency Driven</h3><p align="center">
-  <i>Building skills step by step • Learning deeply • Improving daily</i>
-</p>
+<h3 align="center">🚀 Aspiring Software Engineer | Problem Solver | Consistency Driven</h3>
 
-💫 About Me
-
-🎓 I am a 2nd-year CS & IT student at KL University
-📚 I focus on understanding concepts deeply instead of just completing tutorials
-🧩 I enjoy breaking problems into logical steps and solving them patiently
-🔥 I believe consistency beats talent when practiced daily
+<p align="center"><i>Building skills step by step • Learning deeply • Improving daily</i></p>
 
 ---
-🔍 Currently Learning
 
-- 🧠 Data Structures & Algorithms (structured + pattern-based practice)
-- 📊 Databases & SQL
-- 🌐 Backend & Full-Stack Development (Java & Spring Boot)
+### 💫 About Me
 
----
-🎯 What I Focus On
+🎓 2nd-year CS & IT student at KL University<br>
+📚 Learn concepts deeply instead of tutorial-following<br>
+🧩 Enjoy logical thinking & step-by-step problem solving<br>
+🔥 Believe consistency beats talent
 
-✔ Writing clear and logical code
-✔ Strengthening core computer science fundamentals
-✔ Practicing problem-solving regularly
+### 🔍 Currently Learning
+
+🧠 Data Structures & Algorithms<br>
+📊 Databases & SQL<br>
+🌐 Backend Development (Java & Spring Boot)
+
+### 🎯 Focus
+
+✔ Clear and logical coding<br>
+✔ Strong CS fundamentals<br>
+✔ Regular problem solving<br>
 ✔ Continuous daily improvement
 
----
-🏁 My Goal
+### 🏁 Goal
 
-To build strong problem-solving ability, create real-world applications, and become industry-ready before graduation.
-I want to grow into a developer who understands systems — not just someone who writes code.
+Become industry-ready before graduation by building real applications and strong problem-solving ability.<br>
+Grow into a developer who understands systems — not just writes code.
 
----
-📈 Current Journey
+### 📈 Journey
 
-«Learning → Practicing → Building → Improving → Repeating 🔁»
+<b>Learning → Practicing → Building → Improving → Repeating 🔁</b><br>
+Improving 1% every day.
 
-Every day I try to be 1% better than yesterday.
-
----
-
-<p align="center">
-  <b>Let’s learn, build, and improve every day 🔥</b>
-</p>
+<p align="center"><b>Let’s learn, build, and improve every day 🔥</b></p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/geniehub_/)
