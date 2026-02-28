@@ -3,7 +3,6 @@
 
 <p align="center"><i>Building skills step by step • Learning deeply • Improving daily</i></p>
 
----
 
 ### 💫 About Me
 
