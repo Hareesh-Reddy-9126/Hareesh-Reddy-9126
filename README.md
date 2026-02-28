@@ -18,6 +18,11 @@
 - 📊 Databases & SQL
 - 🌐 Backend & Full-Stack Development (Java & Spring Boot)
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 ---
 
 🎯 What I Focus On
