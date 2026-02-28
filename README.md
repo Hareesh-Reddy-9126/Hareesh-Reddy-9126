@@ -18,11 +18,6 @@
 - 📊 Databases & SQL
 - 🌐 Backend & Full-Stack Development (Java & Spring Boot)
 
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hareesh-Reddy-9126/Hareesh-Reddy-9126/output/github-contribution-grid-snake.svg?raw=true" />
-</p>
 ---
 
 🎯 What I Focus On
@@ -45,12 +40,6 @@
 To build strong problem-solving ability, create real-world applications, and become industry-ready before graduation.
 
 I want to grow into a developer who understands systems — not just someone who writes code.
-
-<h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hareesh-Reddy-9126&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
@@ -80,3 +69,9 @@ Every day I try to be 1% better than yesterday.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hareesh-Reddy-9126&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=Hareesh-Reddy-9126&icon=4&color=7)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hareesh-Reddy-9126/Hareesh-Reddy-9126/output/github-contribution-grid-snake.svg?raw=true" />
+</p>
