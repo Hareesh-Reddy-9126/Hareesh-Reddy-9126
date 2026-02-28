@@ -49,7 +49,7 @@ I want to grow into a developer who understands systems — not just someone who
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hareesh-Reddy-9126&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hareesh-Reddy-9126&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
