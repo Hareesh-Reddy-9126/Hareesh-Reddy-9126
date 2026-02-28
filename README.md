@@ -29,31 +29,6 @@
 
 ---
 
-🛠 Tech Stack
-
-Languages
-
-- Java
-- SQL
-- JavaScript
-
-Backend
-
-- Spring Boot
-- REST APIs
-
-Database
-
-- MySQL
-
-Tools
-
-- Git & GitHub
-- VS Code
-- IntelliJ IDEA
-
----
-
 🏁 My Goal
 
 To build strong problem-solving ability, create real-world applications, and become industry-ready before graduation.
@@ -67,13 +42,6 @@ I want to grow into a developer who understands systems — not just someone who
 «Learning → Practicing → Building → Improving → Repeating 🔁»
 
 Every day I try to be 1% better than yesterday.
-
----
-
-🤝 Connect With Me
-
-- 📧 Email: your-email-here
-- 🔗 LinkedIn: your-linkedin-here
 
 ---
 
