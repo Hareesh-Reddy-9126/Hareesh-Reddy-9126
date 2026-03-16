@@ -50,4 +50,8 @@ Improving 1% every day.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hareesh-Reddy-9126&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=Hareesh-Reddy-9126&icon=4&color=7)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <h2 align="center">🐍 Contribution Snake</h2>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Hareesh-Reddy-9126/Hareesh-Reddy-9126/output/github-contribution-grid-snake.svg?raw=true" />
+</p>
