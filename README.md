@@ -6,7 +6,7 @@
 
 ### 💫 About Me
 
-🎓 2nd-year CS & IT student at KL University<br>
+🎓 3rd-year CS & IT student at KL University<br>
 📚 Learn concepts deeply instead of tutorial-following<br>
 🧩 Enjoy logical thinking & step-by-step problem solving<br>
 🔥 Believe consistency beats talent
